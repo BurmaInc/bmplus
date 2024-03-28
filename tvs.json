@@ -17,7 +17,7 @@
     
     },
      {
- "categoryName" : "Myanmar Channels",
+ "categoryName" : "Cartoon Channels",
  "channels" : [
     {
    "referer" : "",
@@ -26,5 +26,28 @@
    "link" : "UFSTQuOEB7vxWefVNpGFOdp5MZoRC7l20g0E6M7F5ZBjDIu/Fwq2oXJSVJvtTbBB6UmwG1CoDCfRqBxsSsYBzA=="
 }]
     
-    }
+    },
+
+    {
+      "categoryName" : "Sport Channels",
+      "channels" : [
+         {
+        "referer" : "",
+        "channelName" : "E Sport",
+        "channelImage" : "https://yt3.ggpht.com/ytc/AMLnZu8tIx7w_ftV28AmK36qbznIJKTkHd5LApBd4RnV=s900-c-k-c0x00ffffff-no-rj",
+        "link" : "UFSTQuOEB7vxWefVNpGFOdp5MZoRC7l20g0E6M7F5ZBjDIu/Fwq2oXJSVJvtTbBB6UmwG1CoDCfRqBxsSsYBzA=="
+     }]
+         
+       },
+ {
+      "categoryName" : "Discovery Channels",
+            "channels" : [
+               {
+              "referer" : "",
+              "channelName" : "E Sport",
+              "channelImage" : "https://yt3.ggpht.com/ytc/AMLnZu8tIx7w_ftV28AmK36qbznIJKTkHd5LApBd4RnV=s900-c-k-c0x00ffffff-no-rj",
+              "link" : "UFSTQuOEB7vxWefVNpGFOdp5MZoRC7l20g0E6M7F5ZBjDIu/Fwq2oXJSVJvtTbBB6UmwG1CoDCfRqBxsSsYBzA=="
+           }]
+               
+               }
  ]
