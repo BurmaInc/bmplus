@@ -3,7 +3,44 @@
 {
  "categoryName" : "Action",
  "movies" : [
-    
+
+
+  {
+    "name":"The Thundermans Return",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-18/65f7f71631786.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95DGJflMBahk3pcEI7lHv0C6VSgUEW1FCysmBJiRMgPwg==",
+    "description":" "
+  },
+  {
+    "name":"Doomsday Warrior",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-18/65f7f7c0dff91.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95DGJflMBahk3pcEI7lHv0C6VSgUEW1FCysmBJiRMgPwg==",
+    "description":" "
+  },
+  {
+    "name":"Citizen of a Kind",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-21/65fbb7bc7c888.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95DGJflMBahk3pcEI7lHv0C6VSgUEW1FCysmBJiRMgPwg==",
+    "description":" "
+  },
+  {
+    "name":"The Gangster The Cop The Devil",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2023-08-23/64e5af73310d7.png",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95DGJflMBahk3pcEI7lHv0C6VSgUEW1FCysmBJiRMgPwg==",
+    "description":" "
+  },
+  {
+    "name":"Road House",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-22/65fd4e57e0e62.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZApj1LBGxt3YNT8ToQq1I+BSpBkijcxXTqh5uSMQDzg==",
+    "description":" "
+  },
+  {
+    "name":"24 Hours with Gaspar",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-28/660548c115e90.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+945WbH+EQy3s3pLE6zgX7lM8gjwGlT1HXqhjnlXN/YLxg==",
+    "description":" "
+  },
     {
     "name":"Hunt the Wicked",
     "imageUrl":"http://zegomovie.com/Uploads/vod/2024-02-20/65d479616ecae.jpg",
@@ -64,6 +101,20 @@
  {
   "categoryName" : "Bollywood",
   "movies" : [
+
+
+    {
+      "name":"Mersal",
+      "imageUrl":"http://zegomovie.com/Uploads/vod/2024-01-15/65a5027ab78df.jpg",
+      "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZLLSjUFGtqndaA8XsH7wVkCrUJS2LaQ/JsAR0Ut4Z1A==",
+      "description":" "
+    },
+    {
+      "name":"Murder Mubarak",
+      "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-18/65f7f61fde6cd.jpg",
+      "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZLLSjUFGtqndaA8XsH7wVkCrUJS2LaQ/JsAR0Ut4Z1A==",
+      "description":" "
+    },
     {
       "name":"Hanu-Man",
       "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-18/65f80d106dc3a.jpg",
