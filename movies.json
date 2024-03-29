@@ -588,22 +588,34 @@
  },
  {
   "name":"Night Shift",
-  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-29/6606680f296ae.jpgUFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==  "
+  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-29/6606680f296ae.jpg",
+  "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==",
+  "description":"  "
 }, {
   "name":"Dark Night of the Scarecrow",
-  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-29/66063d1fe42a5.jpgUFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==  "
+  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-29/66063d1fe42a5.jpg",
+  "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==",
+  "description":"  "
 }, {
   "name":"Stopmotion",
-  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-28/660520c9bbc73.jpgUFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==  "
+  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-28/660520c9bbc73.jpg",
+  "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==",
+  "description":"  "
 }, {
   "name":"You'll Never Find Me",
-  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-28/66052028099f5.jpgUFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==  "
+  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-28/66052028099f5.jpg",
+  "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==",
+  "description":"  "
 }, {
   "name":"The Unborn",
-  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-28/66051ee297004.jpgUFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==  "
+  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-28/66051ee297004.jpg",
+  "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==",
+  "description":"  "
 }, {
   "name":"The Soul Reaper",
-  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-25/660128278a826.jpgUFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==  "
+  "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-25/660128278a826.jpg",
+  "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==",
+  "description":"  "
 }, {
   "name":"Dark Windows",
   "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-03-22/65fd4c77430a4.jpg",
@@ -873,7 +885,6 @@
   "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZDJj2DAvrrX1bHpOvQfpYuDXLOjKUdhDWrxtrTcEGyw==",
   "description":"  "
 },
-
 
 
  {
