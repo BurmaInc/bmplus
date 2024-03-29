@@ -4,28 +4,92 @@
  "categoryName" : "Action",
  "movies" : [
 
+
+  {
+    "name":"The Marine",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-01-31/65b9c4665e1df.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzcBQytqnYPTcToQq1I+BSpBkijcxXTqh5uSMQDzg==",
+    "description":" "
+  },   {
+    "name":"The Beekeeper",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-01-31/65b9c5f375f7f.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzTARuvoXZPHpmzGOZE7l6hTRP2SmrhpxNjRckOww==",
+    "description":" "
+  },   {
+    "name":"Role Play",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-01-31/65ba2553daaa8.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZApX0NBKlvSEMVILvSKxVrlf3QAWQchTSqx9vScUCzw==",
+    "description":" "
+  }, 
+  {
+    "name":"The Beekeeper",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-01-31/65b9c5f375f7f.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzTARuvoXZPHpmzGOZE7l6hTRP2SmrhpxNjRckOww==",
+    "description":" "
+  },  
+  {
+    "name":"Vidocq",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-02-07/65c307775c0f7.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95dBJ3+Bw/09TxWFY/kVOdAs0/8ODCWdBLUrRlpT8MEyQ==",
+    "description":" "
+  },  {
+    "name":"Age of Heroes",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-11/65ee876d4c4a4.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95KCpz+AjahtnxaCNqwA6BD5F+8G1CoDCfRqBxsSsYBzA==",
+    "description":" "
+  },
+  {
+    "name":"Lost Phoenix",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-11/65eebb7d036fd.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95HAorlNBaroX1WA9m1A6BD5F+8G1CoDCfRqBxsSsYBzA==",
+    "description":" "
+  },
+  {
+    "name":"The Goldfinger",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-13/65f1726455e9a.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzWCxKggnpRHI7zHv0C6VSgUEW1FCysmBJiRMgPwg==",
+    "description":" "
+  },
+  {
+    "name":"All the Names of God",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-13/65f1819373b70.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95KAZXFDBuKpX5aCKTna6ZJsgnrXFP/HGf3zScRes0Kxw==",
+    "description":" "
+  },
+  {
+    "name":"The Abyss",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-12/65f0278127056.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzQBge3tyEMVILvSKxVrlf3QAWQchTSqx9vScUCzw==",
+    "description":" "
+  },
+  {
+    "name":"Terminator Salvation",
+    "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-13/65f17d7387192.jpg",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fCIv8DRClsHxNKIrtWqhZ6VWqBQS0EHG9xWxKL/18/H2dHawjJW2ibZovEUyMz/s=",
+    "description":" "
+  },
   {
     "name":"The Thundermans Return",
     "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-18/65f7f71631786.jpg",
-    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95DGJflMBahk3pcEI7lHv0C6VSgUEW1FCysmBJiRMgPwg==",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzFDAuqoHZNForvX5tI9E+2Ww+vVna3xHEcbKM6sVWCArM8OnK9coUwDlOT0OQ=",
     "description":" "
   },
   {
     "name":"Doomsday Warrior",
     "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-18/65f7f7c0dff91.jpg",
-    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95DGJflMBahk3pcEI7lHv0C6VSgUEW1FCysmBJiRMgPwg==",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95PApb8FxqlvUReCZnoQ7sftBWtW1n+ATG0k2FcRsoNwA==",
     "description":" "
   },
   {
     "name":"Citizen of a Kind",
     "imageUrl":"http://zegomovie.com/Uploads/vod/2024-03-21/65fbb7bc7c888.jpg",
-    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95DGJflMBahk3pcEI7lHv0C6VSgUEW1FCysmBJiRMgPwg==",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95IBI34Hhuqq3VeMILvSPsZr1OqUVjjV3Lq1SxhR8sMwQ==",
     "description":" "
   },
   {
     "name":"The Gangster The Cop The Devil",
     "imageUrl":"http://zegomovie.com/Uploads/vod/2023-08-23/64e5af73310d7.png",
-    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95DGJflMBahk3pcEI7lHv0C6VSgUEW1FCysmBJiRMgPwg==",
+    "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzWBRCjt2daCb/pSYpC8G6sUHn+D3a1kSxLK6BtoRWjYI9GDXe4d4A1C1aW1eE=",
     "description":" "
   },
   {
