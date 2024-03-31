@@ -86,7 +86,44 @@
       "channelName" : "Moonbug Kids",
       "channelImage" : "https://content.osn.com/bob/745x419/MBU.jpg",
       "link" : "UFSTQuOEB7voQKbWNYyDZoZ6M5kBV/JkzwMR9ZOe/t57AZjoCBe3sD1SSJ65L8ou"
-      }
+      },
+      {
+         "referer" : "",
+         "channelName" : "Cartoon Network",
+         "channelImage" : "https://www.paho.org/sites/default/files/styles/max_1500x1500/public/2020-09/cartoon-network-1500-2_0_0.jpg?itok=-eAT8GtK",
+         "link" : "UFSTQqqRB6y8AfuNY9fVecw7bdZGFu49kk0V/c+e555lMpf0EAmrtngQEoXlSbED7QmxDTGXdRPVrBhoTsIFyA=="
+         },
+         {
+            "referer" : "",
+            "channelName" : "Ani",
+            "channelImage" : "https://yt3.googleusercontent.com/ytc/AIf8zZQ_XUv0T7-rk7njIxG_hW4HdlK8xo5BBx3Qg4Pn=s900-c-k-c0x00ffffff-no-rj",
+            "link" : "UFSTQqqRB+fxXazZOpCKLNphLsEAQbBg0g0E6JOY/d5KA5C+DRCgoWsRFtj0FMsv"
+            },
+       {
+         "referer" : "",
+         "channelName" : "Ani",
+         "channelImage" : "https://yt3.googleusercontent.com/ytc/AIf8zZQ_XUv0T7-rk7njIxG_hW4HdlK8xo5BBx3Qg4Pn=s900-c-k-c0x00ffffff-no-rj",
+         "link" : "UFSTQqqRB+fxXazZOpCKLNphLsEAQbBg0g0E6JOY/d5KA5C+DRCgoWsRFtj0FMsv"
+         },
+      {
+         "referer" : "",
+         "channelName" : "Baby Shark TV",
+         "channelImage" : "https://image.winudf.com/v2/image1/a3IuY28uc21hcnRzdHVkeS5waW5rZm9uZ3R2X2FuZHJvaWRfZ29vZ2xlbWFya2V0X3NjcmVlbl8wXzE2MjA3MzgwMzNfMDI3/screen-0.jpg?fakeurl=1&type=.jpg",
+         "link" : "UFSTQuOEB7vrSr7RM5qLZpZ0OpUHTL13yRYAsYzH/YIlH5b6EVCzsWFTVZ/3A7lB4UOoXE7vV3Lq1SxhR8sMwQ=="
+          },
+      {
+         "referer" : "",
+           "channelName" : "CBeebies",
+           "channelImage" : "https://yt3.googleusercontent.com/qx3LC4Tx8mPHDdbTmw6caay_iHA77b6sf9qUC6mPrnh03iXEOAcAwwdOB2b-kXl21QLwHwwbVA=s900-c-k-c0x00ffffff-no-rj",
+            "link" : "UFSTQuOEB7vmS6eVOpiNJdp5N4AbT7NuzUwC6pKpypRuD5D0F1C3sGFaGoauXKVM+VatRkm1FCysmBJiRMgPwg=="
+         },
+      {
+            "referer" : "",
+            "channelName" : "Disney Junior",
+            "channelImage" : "https://i.scdn.co/image/ab6761610000e5eb5ac9515e7e4f7961c944bcea",
+            "link" : "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23"
+          }
+     
   
      
         ]
