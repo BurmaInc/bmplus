@@ -99,12 +99,7 @@
             "channelImage" : "https://yt3.googleusercontent.com/ytc/AIf8zZQ_XUv0T7-rk7njIxG_hW4HdlK8xo5BBx3Qg4Pn=s900-c-k-c0x00ffffff-no-rj",
             "link" : "UFSTQqqRB+fxXazZOpCKLNphLsEAQbBg0g0E6JOY/d5KA5C+DRCgoWsRFtj0FMsv"
             },
-       {
-         "referer" : "",
-         "channelName" : "Ani",
-         "channelImage" : "https://yt3.googleusercontent.com/ytc/AIf8zZQ_XUv0T7-rk7njIxG_hW4HdlK8xo5BBx3Qg4Pn=s900-c-k-c0x00ffffff-no-rj",
-         "link" : "UFSTQqqRB+fxXazZOpCKLNphLsEAQbBg0g0E6JOY/d5KA5C+DRCgoWsRFtj0FMsv"
-         },
+
       {
          "referer" : "",
          "channelName" : "Baby Shark TV",
@@ -122,7 +117,25 @@
             "channelName" : "Disney Junior",
             "channelImage" : "https://i.scdn.co/image/ab6761610000e5eb5ac9515e7e4f7961c944bcea",
             "link" : "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23"
-          }
+          },
+      {
+            "referer" : "",
+            "channelName" : "Disney Japan",
+            "channelImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDqYmBz1xc35dlwQk_oOlaYeMCe2isbyA0A&usqp=CAU",
+            "link" : "UFSTQqqRB/fhQbqWPYnJO4Z8NYkcS7FgjAEZ8YfSuME7QoP5CxCjvXpRHMTtRb9Ir0qoVET3EGytjnlXN/Y2pwTpMN5AB0m7dIM2CFWV1uI="
+            },
+      {
+            "referer" : "",
+            "channelName" : "Nick Jr",
+            "channelImage" : "https://static.wikia.nocookie.net/viacom4633/images/1/18/Nick_Jr.-2023.png/revision/latest?cb=20230816184054",
+               "link" : "UFSTQuOEB7vmS6eVOpiNJdp5N4AbT7NuzUwC6pKk4ZJgJ4u/Fwq2oXJSVJvtTbBB6UmwG1CoDCfRqBxsSsYBzA=="
+               },
+      {
+            "referer" : "",
+            "channelName" : "Nickelodeon",
+            "channelImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",
+               "link" : "UFSTQuOEB7vmS6eVOpiNJdp5N4AbT7NuzUwC6pKk4ZJgJ4u/Fwq2oXJSVJvtTbBB6UmwG1CoDCfRqBxsSsYBzA=="
+                     }
      
   
      
