@@ -3,7 +3,80 @@
     "categoryName": "ALL Movies",
     "movies": [
  
-
+      {
+        "name":"The Showdown",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646fe948f0ff.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzCDBGzoHxIFdqwA6BD5F+8G1CoDCfRqBxsSsYBzA==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Late Night with the Devil",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646fe34b67ea.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95HDI30KhejrGdIEp/pWKFIxF+yXFGpTTCwznABOuBk9xi1B7E+OHC/cIcyDFGR0uY=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Blood for Dust",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646eb911263c.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95JAZb+ABirtldKCJ+zGOZE7l6hTRP2SmrhqhJiRMgPwg==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Free Willy",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646eb267167c.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95NH5z0MxeoqGoGSMToQq1I+BSpBkijcxbQqR1tS8cAzQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Passion",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646ea41c6380.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95bDIriDRGq9SAQEoXlSbED7QmxDTeQchTSqx9vScUCzw==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Pride",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646e98a806b9.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95bH5D1AU7z63pRH475AqQe9QLOODCWdBLUrRlpT8MEyQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Shaolin Popey 3",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646e8fc9437e.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95YBZj+CBeqlHxPHpKyFfwC6VSgUEW1FCysmB5hR8sMwQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Rumah Masa Depan",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646e5d8556b2.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZGJTwDDOlt3J7HpvgQvser1OqUVjjV3Lq1SxuRsoNwA==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Love in the Limelight",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646e572b69c7.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95HAo/0DRCwrHZzEobkQKBK6E72BxLyF3u82DoJcbsxzn2dHawjJW2ibZovEUyMz/s=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Justice League: Doom",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646e50b581d3.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95BGIrlDR2hiHZeHJ7kaKZC7Qv2GlT1HXqhjnlXN/YDxQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Manderlay",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646e4a59e4f7.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95GDJf1AQyopWoPTsToQq1I+BSpBkijcxbQqR1tS8cAzQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Tillu Square",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-17/6646e4404381a.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBJX9ES21sXJNHtm1A6BD5F+8G1CoDCfTpxNjRckOww==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    
+   
       {
         "name":"4bia",
         "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-16/6645e2d51f45e.jpg",
