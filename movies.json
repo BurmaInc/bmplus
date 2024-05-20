@@ -3,6 +3,103 @@
     "categoryName": "ALL Movies",
     "movies": [
       {
+        "name":"The Ruins",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b1e09f41a7.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzDEReqtyMHVILvSKxVrlf3QAWRcxXTqh5uSMQDzg==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"The Professional Bridesmaid",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b1d8f1fcb5.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzBFhGioWBMEoTvTaVv8lOgUE72GHa9kidLK6BtoRWjYI9GDXe7dIM2CFWV1uI=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"A Picture of Her",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b1d2831d32.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95bBJrlEQyhi3V3HpmzH+ZE7l6hTRP2SmrhqhJiRMgPwg==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Wishmaster 4: The Prophecy Fulfilled",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b1cbcd285f.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95cBIr5CR+3sHZNT7/pSZlf70qsUF7iP2q1xn0ILqttjAL/f9NBBU+dFORbZCSysth1RyuVjfE79GRT9SCua9YU",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Vidya Vasula Aham",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b1c0f73b96.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95dBJ35HR+SpWBKF4rARKhAsg7rXFP/HGf3zScResQLxg==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Thelma the Unicorn",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b1baf83ab1.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZz9CR+wrHZqFYLiQ7tDsg7rXFP/HGf3zScResQLxg==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Bastar: The Naxal Story",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b1b557e6ee.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95JDIrlBQyQrHZxGpPgQJpZ70i9Bwm0EHG9xWxKL/18/GeCArM8OnK9coUwDlOT0OQ=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Hot Spot",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b1ae3334a3.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95DAo3CFBGw9icQEoXlSbED7QmxDTeQchTSqx9vScUCzw==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Kade Dade Diyan Kade Pote Diyan",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b1a7a37c99.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ADJ30IB+goVdWAorvZ6hJ5WqrQVjfEGa4ziZXbadnoAj1I9EAQEW4dYI3CVSU1+M=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Threads",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b19e2a07ac.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBYv0BRq3kHtNEoftSbsVtBWtW1n+ATG0k2FcSM0Kxw==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Wishmaster 3: Beyond the Gates of Hell",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b02547fec2.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95cBIr5CR+3sHZNSKnkVaZD5G6sUHr6DXqqkCZLK6BtoRWjYI9GDXe7dIM2CFWV1uI=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Krishnamma",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b01e64d455.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95AH5DiDBClqX5eSd+uRadJ5ULqWA7uQRXRqBxsSsYBzA==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Northeast Folktales",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b016ec6016.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95AH5DiDBClqX5eSd+uRadJ5ULqWA7uQRXRqBxsSsYBzA==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Zara Hatke Zara Bachke",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-20/664b010144c8b.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95RDIvwLB+wr3ZlGpngbqhO6FGhBw60EHG9xWxKL/18/GeCArM8OnK9coUwDlOT0OQ=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Blood Hangs In The Coffin",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-18/664874c49fbc4.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95JAZb+ADalqnRMMoXVRKxu71yiXFOpTTCwznABOuBk9xi1B7E+OHC/cIcyDFGR0uY=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Sting",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-18/6648744d17969.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95YGZD/A0zw63pRH475AqQe9QLOODCWdBLUrRlpT8MEyQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    
+     {
         "name":"You, Me, and that Mountain Retreat",
         "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-18/664871e98f78c.jpg",
         "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95SAozcAR+qoGdXGp/MQ7xD9FutW2/+DW28wWBWceFgqgnodZJeBgiKd404Blub2Ow=",
