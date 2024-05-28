@@ -3,6 +3,175 @@
     "categoryName": "ALL Movies",
     "movies": [
       {
+        "name":"The Shamrock Spitfire",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-27/665434f974a0d.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95YBZjwABecp3teFYzkYaBV1Ur2ARLyF3u82DoJcbsxzn2dHawjJW2ibZovEUyMz/s=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Just Super",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-27/66543409d587d.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95BGIrlNwu0oWENScToQq1I+BSpBkijcxbQqR1tS8cAzQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Saved!",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-27/66543472c4edc.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95GDIviIQa0tnZMCNmyA6BD5F+8G1CoDCfTpxNjRckOww==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Mars Express",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-27/6654319032726.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95GDIviIQa0tnZMCNmyA6BD5F+8G1CoDCfTpxNjRckOww==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"The Brand New Testament",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-27/665431251e241.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzTFh+qoF1aDL/kX71M7V+qQQyuVna3xHEcbKM6sVWHA7I9O3O8c4QxD1KS0eU=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Spring Break Nightmare",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-27/665430b88512f.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95YHYv4ChmGtnZeEKXoS6FZ7Vu2UA+oVna3xHEcbKM6sVWHA7I9O3O8c4QxD1KS0eU=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"White Rabbit",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-27/6654304858890.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95cBZDlASylpnFWD9qyA6BD5F+8G1CoDCfTpxNjRckOww==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Atlas",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-27/66542fda0a98a.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95KGZXwF0/z9jxWFY/kVOdAs0/8PzGXdRPVrBhoTsIFyA==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Escape And Trace",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-27/66542f6843875.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95OHprwFBuFqndrCYriSfsZr1OqUVjjV3Lq1SxuRsoNwA==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Kaliyugam Pattanamlo",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-27/66542eec9680f.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ADJX4HQujpX5vGp/1TadM7VarBwm0EHG9xWxKL8QLxg==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Civil War",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/6651b70f53956.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95IBI/4CCmltiELVILvSKxVrlf3QAWRcxXTqh5uSMQDzg==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"White Rose",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/6651b6401a6da.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95cBZDlASyrt3YNT8ToQq1I+BSpBkijcxbQqR1tS8cAzQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Chillerama",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/6651b5dc70903.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95IBZD9CBu2pX5eStquRadJ5ULqWA7uQRXRqBxsSsYBzA==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Sometimes Always Never",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/6651b6b01d8f2.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95IBZD9CBu2pX5eStquRadJ5ULqWA7uQRXRqBxsSsYBzA==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Our Souls at Night",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/6651b55aa9116.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95EGIvCCwuot3JLNYLmRL0Isgr1AhLyF3u82DoJcbsxzn2dHawjJW2ibZovEUyMz/s=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"The Town that Dreaded Sundown",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/6651b4955a748.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzFCwmqkHteD6/zSahJ5V6XQFP/Fmi3kSBLK6BtoRWjYI9GDXe7dIM2CFWV1uI=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Crew",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/6651b41b61cb2.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95IH5zmVkrrrX1bHpOvQfpYuDDKOzOVdxHXrhpqTMAHyg==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"The Eye",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/66518c9e6188d.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBZzUHRv0/DxWFY/kVOdAs0/8PzGXdRPVrBhoTsIFyA==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Tatsama Tadbhava",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/66518bff333d6.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fDI3iBROlkHJbGYPgWqgftBWtW1n+ATG0k2FcSM0Kxw==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Rendition",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/66518ba240e18.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95ZCJf1DQqtq30PTMToQq1I+BSpBkijcxbQqR1tS8cAzQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Miss Peregrine’s Home For Peculiar Children",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/66518b3d3531e.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95GBIriNBu2oXRNEoXkX4FC7V+iWk/LHHyszH0FMI1hrQHpf9ldBEudFORbZCSysth1RyuVjfE79GRT9SCua9YU",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Duplicity",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/66518acd297d6.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95PGIn9DR2tsGoPQsToQq1I+BSpBkijcxbQqR1tS8cAzQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Garuda Purana",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/66518a6b2d7e3.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95MDIvkAB+UsWFeFYqzH+ZE7l6hTRP2SmrhqhJiRMgPwg==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Bunraku",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/665189f3b2cc0.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95JGJfjBRWx9SMQEoXlSbED7QmxDTeQchTSqx9vScUCzw==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Luckless in Love",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-24/6650710c7c4aa.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95HGJr6CBu3t1pRN4T3Sfser1OqUVjjV3Lq1SxuRsoNwA==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Flashbacks of a Fool",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-24/66506f05289c9.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95NAZjiDBylp3hMNI3AaqZC7Ar8GlT1HXqhjnlXN/YDxQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Tied Up and Down",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/66514aa0a0a5e.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95fBJz1MQ6lqnd7FJzvHv0C6VSgUEW1FCysmB5hR8sMwQ==",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    {
+        "name":"Extreme Speed Police: The War on Drugs",
+        "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-25/66514a1e84a8c.jpg",
+        "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95OFY3jAROhl2NaHo/RQ6VE41+QXVjMGG22zlAWN6l69lmiZNJXUAWcELlKOVaf3Og=",
+        "description":"BurmaTV+မှာမြန်မာစာတန်းထိုးဇာတ်ကားကောင်းများကို အခမဲ့ကြည့်ရှုနိုင်ပါပြီ ကြော်ငြာများအား ထည့်သွင်းလိုပါက ဆက်သွယ်နိုင်ပါပြီ"
+      },
+    
+          {
         "name":"Gampang Cuan",
         "imageUrl":"http://www.zegomovie.com/Uploads/vod/2024-05-24/66506eabaf3bb.jpg",
         "videoUrl": "UFSTQqqRB+PyWOfCMp6LJptjMYlaR7NojTQf+NiF+95MLLTBJTCDh0Z+NdmyA6BD5F+8G1CoDCfTpxNjRckOww==",
